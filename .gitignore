@@ -1,0 +1,9 @@
+node_modules/
+.next/
+dist/
+.env
+uploads/*
+!uploads/.gitkeep
+*.log
+!sample-logs/*.log
+.DS_Store
